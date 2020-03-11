@@ -1,0 +1,1 @@
+/home/luckened/Documents/dotfiles/bash_aliases
